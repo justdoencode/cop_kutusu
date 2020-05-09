@@ -1,0 +1,10 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\bin\Debug\cop_kutusu.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\bin\Debug\cop_kutusu.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\bin\Debug\cop_kutusu.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\obj\Debug\cop_kutusu.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\obj\Debug\cop_kutusu.Form1.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\obj\Debug\cop_kutusu.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\obj\Debug\cop_kutusu.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\obj\Debug\cop_kutusu.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\obj\Debug\cop_kutusu.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\cop_kutusu\cop_kutusu\obj\Debug\cop_kutusu.frm_copkutusu.resources
